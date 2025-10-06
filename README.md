@@ -71,6 +71,7 @@ Trava de Acesso com RFID: Um sistema de trava automática para áreas restritas,
 Monitor de Temperatura e Umidade: Um dispositivo que monitora as condições do estoque de medicamentos e envia alertas por SMS caso os níveis saiam do padrão, garantindo a qualidade dos produtos.
 
 👥 Equipe Nexus TechSupport
+
 Gabriel Bento de Souza
 
 Giovana Luccas Kadomoto
